@@ -1,688 +1,231 @@
 <div align="center">
 
-# ⚡ MECATRONIX
-
-### SOFTWARE DEVELOPMENT
-
-**Engineering Digital Products • Automating Businesses • Building Scalable Systems**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=header" width="100%"/>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_Official_Website-mecatronix.one-0A66C2?style=for-the-badge)](https://www.mecatronix.one/)
-![Software Development](https://img.shields.io/badge/Software-Development-111827?style=for-the-badge)
-![Custom Solutions](https://img.shields.io/badge/Custom-Business_Solutions-7C3AED?style=for-the-badge)
-![India](https://img.shields.io/badge/Based_in-Tamil_Nadu,_India-EA580C?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=800&color=2DD4BF&background=00000000&center=true&vCenter=true&width=700&lines=MECATRONIX" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2600&pause=900&color=8B949E&background=00000000&center=true&vCenter=true&width=650&lines=Engineering+digital+products+for+real+businesses;Textile+%C2%B7+Manufacturing+%C2%B7+Retail+%C2%B7+Logistics+%C2%B7+SaaS;From+workflow+audit+to+production+deployment" />
 
 <br/>
 
-> ### Transforming business ideas into powerful digital products.
-
-We design and engineer modern websites, enterprise applications, ERP systems,
-e-commerce platforms, billing solutions, cloud applications and custom software.
-
----
+<a href="https://www.mecatronix.one/">
+<img src="https://img.shields.io/badge/mecatronix.one-2DD4BF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" />
+</a>
+<img src="https://img.shields.io/badge/Tamil_Nadu%2C_India-161B22?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF" />
+<img src="https://img.shields.io/badge/Available_for_projects-161B22?style=for-the-badge&logo=checkmarx&logoColor=2DD4BF" />
 
 </div>
 
-# 🧬 Who We Are
+<br/>
 
-<table>
+<table width="100%">
 <tr>
-<td width="58%">
+<td width="50%" valign="top">
 
-## Mecatronix Software Development
+### ⚙️ What we do
 
-**Mecatronix** is a software development company focused on building high-performance, scalable and business-oriented digital solutions.
+Mecatronix designs and engineers modern websites, ERP systems, e-commerce platforms, billing tools and custom software — built around how a business actually runs, not a generic template of it.
 
-We don't just build software.
-
-We understand the business process, identify problems, design the right architecture and develop solutions that improve the way businesses operate.
-
-Our solutions are created for businesses that need:
-
-* Better operational control
-* Faster business processes
-* Real-time information
-* Automation
-* Secure data management
-* Scalable technology
-* Modern digital experiences
+We work with manufacturers, textile exporters, retailers and logistics teams who need real operational software, not just a website.
 
 </td>
+<td width="50%" valign="top">
 
-<td width="42%" align="center">
+### 📌 At a glance
 
-### OUR CORE
-
-🚀 **Performance**
-
-🔐 **Security**
-
-⚙️ **Automation**
-
-📈 **Scalability**
-
-🎨 **Modern UI/UX**
-
-🧩 **Custom Engineering**
-
-☁️ **Cloud Ready**
-
-📱 **Responsive Systems**
+| | |
+|---|---|
+| 🏗️ | Custom-built, not off-the-shelf |
+| 🔐 | Security-first architecture |
+| 📈 | Designed to scale with the business |
+| ⚡ | Performance treated as a requirement |
 
 </td>
 </tr>
 </table>
-
----
-
-# 🚀 What We Build
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 🌐 Web Development
-
-Modern business websites engineered for performance, SEO and conversion.
-
-* Corporate Websites
-* Manufacturing Websites
-* Textile Websites
-* Export Websites
-* Dynamic Websites
-* Product Catalogue Websites
-* Landing Pages
-* Business Portals
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🛒 E-Commerce
-
-Scalable commerce systems for modern businesses.
-
-* Product Management
-* Shopping Cart
-* Checkout
-* Payment Integration
-* Order Management
-* Coupons
-* Inventory
-* Customer Accounts
-* Shipping Integration
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🏭 ERP Systems
-
-Custom ERP platforms built around real business workflows.
-
-* Production
-* Inventory
-* Sales
-* Purchase
-* Customers
-* Suppliers
-* Workers
-* Expenses
-* Payments
-* Reports
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### 🧾 Billing & POS
-
-Fast billing and transaction management systems.
-
-* Invoice Generation
-* Thermal Printing
-* Product Management
-* Sales Tracking
-* Customer Ledger
-* WhatsApp Invoice
-* Payment Tracking
-* Reports
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📱 Applications
-
-Business-focused web and mobile applications.
-
-* Customer Applications
-* Driver Applications
-* Worker Applications
-* Admin Applications
-* Internal Business Tools
-* Field Applications
-* Management Portals
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🧩 Custom Software
-
-Software engineered for unique operational requirements.
-
-* SaaS Platforms
-* Automation Systems
-* Internal Tools
-* Multi-Tenant Systems
-* Dashboards
-* APIs
-* Legacy Modernization
-* Cloud Platforms
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💎 Our Engineering Philosophy
-
-<div align="center">
-
-### We build systems that are designed to perform today and scale tomorrow.
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### ⚡
-
-### FAST
-
-Optimized applications with performance-first architecture.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔐
-
-### SECURE
-
-Secure authentication, APIs, validation and access control.
-
-</td>
-
-<td align="center" width="25%">
-
-### 📈
-
-### SCALABLE
-
-Architecture designed to grow with users and business operations.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-### SMART
-
-Automation and workflow-driven solutions for real-world business problems.
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠 Technology Ecosystem
-
-<div align="center">
-
-## Frontend Engineering
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge\&logo=shadcnui\&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge\&logo=zod\&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-State_Management-8B5E3C?style=for-the-badge)
 
 <br/>
 
-## Backend Engineering
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-2563EB?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-
-<br/>
-
-## Data Layer
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
-
-<br/>
-
-## Cloud & Deployment
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge\&logo=pm2\&logoColor=white)
-![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-Storage-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
-
-</div>
-
----
-
-# 🧱 Architecture We Work With
-
-```text
-                         USER
-                           │
-                           ▼
-                  ┌───────────────────┐
-                  │   Next.js / React │
-                  │      Frontend     │
-                  └─────────┬─────────┘
-                            │
-                         REST API
-                            │
-                            ▼
-                  ┌───────────────────┐
-                  │      NestJS       │
-                  │      Backend      │
-                  └─────┬─────┬───────┘
-                        │     │
-              ┌─────────┘     └───────────┐
-              ▼                           ▼
-      ┌───────────────┐           ┌───────────────┐
-      │  PostgreSQL   │           │    MongoDB    │
-      │     Prisma    │           │   Mongoose    │
-      └───────────────┘           └───────────────┘
-               │
-               ▼
-      ┌─────────────────┐
-      │      Redis      │
-      │ Cache / Queues  │
-      └─────────────────┘
-               │
-               ▼
-      ┌─────────────────────────────┐
-      │ Cloudflare • R2 • Vercel    │
-      │ VPS • Docker • Nginx • PM2  │
-      └─────────────────────────────┘
-```
-
----
-
-# 🔗 Platform Integrations
-
-<table>
-<tr>
-<td align="center">💳<br/><b>Razorpay</b></td>
-<td align="center">💬<br/><b>WhatsApp API</b></td>
-<td align="center">📧<br/><b>Resend</b></td>
-<td align="center">📦<br/><b>Shiprocket</b></td>
-</tr>
-
-<tr>
-<td align="center">☁️<br/><b>Cloudflare R2</b></td>
-<td align="center">🖼️<br/><b>Cloudinary</b></td>
-<td align="center">🗺️<br/><b>Google Maps</b></td>
-<td align="center">🔌<br/><b>Third-Party APIs</b></td>
-</tr>
-</table>
-
----
-
-# 🏭 Industries We Serve
+## 🧰 Tech we build with
 
 <div align="center">
 
-| Industry             | Solutions                                        |
-| -------------------- | ------------------------------------------------ |
-| 🧵 **Textile**       | Production, inventory, catalogue, ERP            |
-| 👕 **Garments**      | Products, exports, order management              |
-| 🏭 **Manufacturing** | Production tracking, inventory, reports          |
-| 📦 **Export**        | Corporate platforms, file sharing, documentation |
-| 🛒 **Retail**        | Billing, inventory, customer management          |
-| 🛍️ **E-Commerce**   | Complete online commerce platforms               |
-| 🚚 **Logistics**     | Driver apps, delivery tracking, operations       |
-| 🧾 **Billing**       | POS, invoicing, reports and payments             |
-| 💼 **Services**      | Websites, CRM and business portals               |
-| ☁️ **SaaS**          | Multi-tenant cloud applications                  |
-
-</div>
-
----
-
-# 🧠 How Mecatronix Builds Software
-
-```text
-01
-BUSINESS DISCOVERY
-Understand the business, users and current workflow.
-
-                         ↓
-
-02
-REQUIREMENT ENGINEERING
-Convert operational requirements into software modules.
-
-                         ↓
-
-03
-SYSTEM ARCHITECTURE
-Design frontend, backend, APIs, database and infrastructure.
-
-                         ↓
-
-04
-UI / UX DESIGN
-Create a modern and efficient user experience.
-
-                         ↓
-
-05
-ENGINEERING
-Develop scalable frontend and backend systems.
-
-                         ↓
-
-06
-QUALITY ASSURANCE
-Test functionality, responsiveness, APIs and edge cases.
-
-                         ↓
-
-07
-OPTIMIZATION
-Improve performance, security and reliability.
-
-                         ↓
-
-08
-DEPLOYMENT
-Deploy using cloud infrastructure and production environments.
-
-                         ↓
-
-09
-SUPPORT & EVOLUTION
-Maintain, improve and scale the application.
-```
-
----
-
-# 🎯 Engineering Standards
-
-<table>
-<tr>
-<td width="50%">
-
-### Frontend
-
-* Component-based architecture
-* Type-safe development
-* Responsive interfaces
-* Server-side rendering
-* Image optimization
-* Dynamic imports
-* SEO optimization
-* Accessibility
-* Reusable UI components
-* Clean project structure
-
-</td>
-
-<td width="50%">
-
-### Backend
-
-* Modular APIs
-* DTO validation
-* Authentication
-* Authorization
-* Role-based access
-* Rate limiting
-* Logging
-* Error handling
-* Database optimization
-* Secure environment configuration
-
-</td>
-</tr>
-</table>
-
----
-
-# 🔐 Security Matters
-
-Security is considered throughout our development process.
-
-```text
-✓ JWT Authentication
-
-✓ HTTP-only Cookies
-
-✓ Role-Based Access Control
-
-✓ Request Validation
-
-✓ Password Hashing
-
-✓ API Rate Limiting
-
-✓ Secure Headers
-
-✓ Environment Variable Protection
-
-✓ Database Access Control
-
-✓ Input Sanitization
-
-✓ CORS Configuration
-
-✓ Production Logging
-```
-
----
-
-# ⚡ Performance Matters
-
-We focus heavily on application speed and stability.
-
-### Our performance approach
-
-* Server Components
-* Server-side Rendering
-* Static Generation
-* Image Optimization
-* CDN Delivery
-* Lazy Loading
-* Dynamic Imports
-* Database Indexing
-* Query Optimization
-* Redis Caching
-* API Optimization
-* Compression
-* Production Monitoring
-
----
-
-# 📦 Project Categories
-
-```text
-MECATRONIX
-│
-├── 🌐 Corporate Websites
-│
-├── 🛒 E-Commerce Platforms
-│
-├── 🏭 ERP Systems
-│
-├── 🧵 Textile ERP
-│
-├── 🧾 Billing Applications
-│
-├── 📦 Inventory Management
-│
-├── 🚚 Driver Management Systems
-│
-├── 💰 Finance & Expense Platforms
-│
-├── ☁️ Secure File Transfer Systems
-│
-├── 📊 Analytics Dashboards
-│
-├── 🔐 Authentication Systems
-│
-├── 👥 Multi-Role Applications
-│
-├── 🔌 REST APIs
-│
-└── 🧩 Custom Business Software
-```
-
----
-
-# 🌟 What Makes Mecatronix Different?
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-## 01
-
-### Business First
-
-We understand the operational problem before selecting the technology.
-
-</td>
-
-<td align="center" width="33%">
-
-## 02
-
-### Custom Built
-
-Our systems are designed around actual business workflows.
-
-</td>
-
-<td align="center" width="33%">
-
-## 03
-
-### Built to Scale
-
-We build architecture that supports future modules and business growth.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-## 04
-
-### Performance Focused
-
-Application speed is treated as an engineering requirement.
-
-</td>
-
-<td align="center">
-
-## 05
-
-### Modern Technology
-
-We use production-ready modern frameworks and development practices.
-
-</td>
-
-<td align="center">
-
-## 06
-
-### Long-Term Thinking
-
-We design software that can be maintained and extended over time.
-
-</td>
-</tr>
-</table>
-
----
-
-# 🌍 From Idea to Production
-
-<div align="center">
-
-### IDEA → DESIGN → ENGINEERING → DEPLOYMENT → SCALE
-
-<br/>
-
-**We help businesses move from manual processes to intelligent digital systems.**
-
-</div>
-
----
-
-# 🤝 Let's Build Something Powerful
-
-<div align="center">
-
-### Have a business idea, existing workflow or software requirement?
-
-Mecatronix can help you transform it into a modern digital product.
-
-<br/>
-
-[![Visit Website](https://img.shields.io/badge/VISIT_OUR_WEBSITE-mecatronix.one-2563EB?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.mecatronix.one/)
+**Frontend**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-8B5E3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
 
 <br/><br/>
 
-### MECATRONIX SOFTWARE DEVELOPMENT
+**Backend & Data**
 
-**Web • Mobile • ERP • E-Commerce • Billing • SaaS • Custom Software**
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+
+<br/><br/>
+
+**Cloud, DevOps & Integrations**
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+
+</div>
 
 <br/>
 
----
+## 🚀 What we build
 
-### ⚡ THINK • BUILD • AUTOMATE • SCALE
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Engineering Software for Modern Businesses**
+**🌐 Web Development**
+- Corporate & manufacturing sites
+- Textile & export platforms
+- Product catalogues
+- Business portals
+
+</td>
+<td width="33%" valign="top">
+
+**🛒 E-Commerce**
+- Product & inventory management
+- Checkout & payment integration
+- Order management
+- Shipping integration
+
+</td>
+<td width="33%" valign="top">
+
+**🏭 ERP Systems**
+- Production & inventory
+- Sales & purchase
+- Suppliers & workers
+- Expenses & reports
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**🧾 Billing & POS**
+- Invoice generation
+- Thermal printing
+- WhatsApp invoicing
+- Customer ledger
+
+</td>
+<td width="33%" valign="top">
+
+**📱 Applications**
+- Customer & driver apps
+- Worker & admin apps
+- Field tools
+- Management portals
+
+</td>
+<td width="33%" valign="top">
+
+**🧩 Custom Software**
+- SaaS platforms
+- Automation systems
+- Dashboards & APIs
+- Legacy modernization
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-`© Mecatronix Software Development`
+## 🏭 Industries we serve
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🧵_Textile-161B22?style=flat-square&color=161B22"/>
+<img src="https://img.shields.io/badge/👕_Garments-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/🏭_Manufacturing-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/📦_Export-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/🛒_Retail-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/🛍️_E--Commerce-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/🚚_Logistics-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/💼_Services-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/☁️_SaaS-161B22?style=flat-square"/>
+
+</div>
+
+<br/>
+
+## 🧭 How we build
+
+```
+discovery → requirements → architecture → design → engineering → QA → optimization → deployment → support
+```
+
+| Step | What happens |
+|---|---|
+| 1. Business discovery | Understand the business, users and current workflow |
+| 2. Requirement engineering | Convert operations into software modules |
+| 3. System architecture | Design frontend, backend, APIs, database, infra |
+| 4. UI/UX design | Build an interface that's efficient day-to-day |
+| 5. Engineering | Develop scalable frontend and backend systems |
+| 6. Quality assurance | Test functionality, responsiveness, edge cases |
+| 7. Optimization | Tune performance, security and reliability |
+| 8. Deployment | Ship on production-grade cloud infrastructure |
+| 9. Support & evolution | Maintain, improve and scale over time |
+
+<br/>
+
+<details>
+<summary><b>🔐 Engineering standards, security & performance</b></summary>
+<br/>
+
+**Engineering** — component-based & type-safe frontend · modular APIs with DTO validation · role-based access control · database indexing
+
+**Security** — JWT with HTTP-only cookies · request validation & sanitization · password hashing · rate limiting · environment protection
+
+**Performance** — SSR & static generation · Redis caching · CDN delivery · query optimization · production monitoring
+
+</details>
+
+<br/>
+
+<div align="center">
+
+## 🤝 Let's build something
+
+Have a business idea, an existing workflow, or a software requirement in mind?
+
+<a href="https://www.mecatronix.one/">
+<img src="https://img.shields.io/badge/START_A_PROJECT-2DD4BF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" />
+</a>
+
+<br/><br/>
+
+<sub>Web · Mobile · ERP · E-Commerce · Billing · SaaS · Custom Software</sub>
+<br/>
+<sub>© Mecatronix Software Development</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&section=footer" width="100%"/>
 
 </div>
