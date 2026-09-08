@@ -9,11 +9,8 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/🌐_Official_Website-mecatronix.one-0A66C2?style=for-the-badge)](https://www.mecatronix.one/)
-
 ![Software Development](https://img.shields.io/badge/Software-Development-111827?style=for-the-badge)
-
 ![Custom Solutions](https://img.shields.io/badge/Custom-Business_Solutions-7C3AED?style=for-the-badge)
-
 ![India](https://img.shields.io/badge/Based_in-Tamil_Nadu,_India-EA580C?style=for-the-badge)
 
 <br/>
@@ -23,11 +20,15 @@
 We design and engineer modern websites, enterprise applications, ERP systems,
 e-commerce platforms, billing solutions, cloud applications and custom software.
 
-</div>
-
 ---
 
+</div>
+
 # 🧬 Who We Are
+
+<table>
+<tr>
+<td width="58%">
 
 ## Mecatronix Software Development
 
@@ -37,7 +38,7 @@ We don't just build software.
 
 We understand the business process, identify problems, design the right architecture and develop solutions that improve the way businesses operate.
 
-### Our solutions are created for businesses that need:
+Our solutions are created for businesses that need:
 
 * Better operational control
 * Faster business processes
@@ -47,24 +48,42 @@ We understand the business process, identify problems, design the right architec
 * Scalable technology
 * Modern digital experiences
 
-### Our Core
+</td>
 
-|    | Core Principle         |
-| -- | ---------------------- |
-| 🚀 | **Performance**        |
-| 🔐 | **Security**           |
-| ⚙️ | **Automation**         |
-| 📈 | **Scalability**        |
-| 🎨 | **Modern UI/UX**       |
-| 🧩 | **Custom Engineering** |
-| ☁️ | **Cloud Ready**        |
-| 📱 | **Responsive Systems** |
+<td width="42%" align="center">
+
+### OUR CORE
+
+🚀 **Performance**
+
+🔐 **Security**
+
+⚙️ **Automation**
+
+📈 **Scalability**
+
+🎨 **Modern UI/UX**
+
+🧩 **Custom Engineering**
+
+☁️ **Cloud Ready**
+
+📱 **Responsive Systems**
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🚀 What We Build
 
-## 🌐 Web Development
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🌐 Web Development
 
 Modern business websites engineered for performance, SEO and conversion.
 
@@ -77,7 +96,11 @@ Modern business websites engineered for performance, SEO and conversion.
 * Landing Pages
 * Business Portals
 
-## 🛒 E-Commerce
+</td>
+
+<td width="33%" valign="top">
+
+### 🛒 E-Commerce
 
 Scalable commerce systems for modern businesses.
 
@@ -91,7 +114,11 @@ Scalable commerce systems for modern businesses.
 * Customer Accounts
 * Shipping Integration
 
-## 🏭 ERP Systems
+</td>
+
+<td width="33%" valign="top">
+
+### 🏭 ERP Systems
 
 Custom ERP platforms built around real business workflows.
 
@@ -106,7 +133,15 @@ Custom ERP platforms built around real business workflows.
 * Payments
 * Reports
 
-## 🧾 Billing & POS
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 🧾 Billing & POS
 
 Fast billing and transaction management systems.
 
@@ -119,7 +154,11 @@ Fast billing and transaction management systems.
 * Payment Tracking
 * Reports
 
-## 📱 Applications
+</td>
+
+<td width="33%" valign="top">
+
+### 📱 Applications
 
 Business-focused web and mobile applications.
 
@@ -131,7 +170,11 @@ Business-focused web and mobile applications.
 * Field Applications
 * Management Portals
 
-## 🧩 Custom Software
+</td>
+
+<td width="33%" valign="top">
+
+### 🧩 Custom Software
 
 Software engineered for unique operational requirements.
 
@@ -144,6 +187,11 @@ Software engineered for unique operational requirements.
 * Legacy Modernization
 * Cloud Platforms
 
+</td>
+
+</tr>
+</table>
+
 ---
 
 # 💎 Our Engineering Philosophy
@@ -154,9 +202,49 @@ Software engineered for unique operational requirements.
 
 </div>
 
-| ⚡ FAST                                                      | 🔐 SECURE                                                   | 📈 SCALABLE                                                       | 🧠 SMART                                                                   |
-| ----------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| Optimized applications with performance-first architecture. | Secure authentication, APIs, validation and access control. | Architecture designed to grow with users and business operations. | Automation and workflow-driven solutions for real-world business problems. |
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ⚡
+
+### FAST
+
+Optimized applications with performance-first architecture.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐
+
+### SECURE
+
+Secure authentication, APIs, validation and access control.
+
+</td>
+
+<td align="center" width="25%">
+
+### 📈
+
+### SCALABLE
+
+Architecture designed to grow with users and business operations.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+### SMART
+
+Automation and workflow-driven solutions for real-world business problems.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -170,8 +258,9 @@ Software engineered for unique operational requirements.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge\&logo=shadcnui\&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge\&logo=zod\&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-State_Management-8B5E3C?style=for-the-badge)
 
@@ -201,8 +290,9 @@ Software engineered for unique operational requirements.
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge\&logo=pm2\&logoColor=white)
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-Storage-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
 
 </div>
@@ -216,8 +306,8 @@ Software engineered for unique operational requirements.
                            │
                            ▼
                   ┌───────────────────┐
-                  │  Next.js / React  │
-                  │     Frontend      │
+                  │   Next.js / React │
+                  │      Frontend     │
                   └─────────┬─────────┘
                             │
                          REST API
@@ -232,19 +322,19 @@ Software engineered for unique operational requirements.
               ▼                           ▼
       ┌───────────────┐           ┌───────────────┐
       │  PostgreSQL   │           │    MongoDB    │
-      │    Prisma     │           │   Mongoose    │
-      └───────┬───────┘           └───────────────┘
-              │
-              ▼
+      │     Prisma    │           │   Mongoose    │
+      └───────────────┘           └───────────────┘
+               │
+               ▼
       ┌─────────────────┐
       │      Redis      │
       │ Cache / Queues  │
-      └────────┬────────┘
+      └─────────────────┘
                │
                ▼
       ┌─────────────────────────────┐
-      │ Cloudflare • R2 • Vercel   │
-      │ VPS • Docker • Nginx • PM2 │
+      │ Cloudflare • R2 • Vercel    │
+      │ VPS • Docker • Nginx • PM2  │
       └─────────────────────────────┘
 ```
 
@@ -252,33 +342,42 @@ Software engineered for unique operational requirements.
 
 # 🔗 Platform Integrations
 
-| Integration             | Purpose                                     |
-| ----------------------- | ------------------------------------------- |
-| 💳 **Razorpay**         | Online payment integration                  |
-| 💬 **WhatsApp API**     | Notifications, communication and automation |
-| 📧 **Resend**           | Transactional and business email            |
-| 📦 **Shiprocket**       | Shipping and courier integration            |
-| ☁️ **Cloudflare R2**    | Scalable object storage                     |
-| 🖼️ **Cloudinary**      | Image and media optimization                |
-| 🗺️ **Google Maps**     | Maps, locations and navigation              |
-| 🔌 **Third-Party APIs** | External platform integrations              |
+<table>
+<tr>
+<td align="center">💳<br/><b>Razorpay</b></td>
+<td align="center">💬<br/><b>WhatsApp API</b></td>
+<td align="center">📧<br/><b>Resend</b></td>
+<td align="center">📦<br/><b>Shiprocket</b></td>
+</tr>
+
+<tr>
+<td align="center">☁️<br/><b>Cloudflare R2</b></td>
+<td align="center">🖼️<br/><b>Cloudinary</b></td>
+<td align="center">🗺️<br/><b>Google Maps</b></td>
+<td align="center">🔌<br/><b>Third-Party APIs</b></td>
+</tr>
+</table>
 
 ---
 
 # 🏭 Industries We Serve
 
-| Industry             | Solutions                                           |
-| -------------------- | --------------------------------------------------- |
-| 🧵 **Textile**       | Production, inventory, catalogue and ERP            |
-| 👕 **Garments**      | Products, exports and order management              |
-| 🏭 **Manufacturing** | Production tracking, inventory and reports          |
-| 📦 **Export**        | Corporate platforms, file sharing and documentation |
-| 🛒 **Retail**        | Billing, inventory and customer management          |
-| 🛍️ **E-Commerce**   | Complete online commerce platforms                  |
-| 🚚 **Logistics**     | Driver apps, delivery tracking and operations       |
-| 🧾 **Billing**       | POS, invoicing, reports and payments                |
-| 💼 **Services**      | Websites, CRM and business portals                  |
-| ☁️ **SaaS**          | Multi-tenant cloud applications                     |
+<div align="center">
+
+| Industry             | Solutions                                        |
+| -------------------- | ------------------------------------------------ |
+| 🧵 **Textile**       | Production, inventory, catalogue, ERP            |
+| 👕 **Garments**      | Products, exports, order management              |
+| 🏭 **Manufacturing** | Production tracking, inventory, reports          |
+| 📦 **Export**        | Corporate platforms, file sharing, documentation |
+| 🛒 **Retail**        | Billing, inventory, customer management          |
+| 🛍️ **E-Commerce**   | Complete online commerce platforms               |
+| 🚚 **Logistics**     | Driver apps, delivery tracking, operations       |
+| 🧾 **Billing**       | POS, invoicing, reports and payments             |
+| 💼 **Services**      | Websites, CRM and business portals               |
+| ☁️ **SaaS**          | Multi-tenant cloud applications                  |
+
+</div>
 
 ---
 
@@ -288,41 +387,49 @@ Software engineered for unique operational requirements.
 01
 BUSINESS DISCOVERY
 Understand the business, users and current workflow.
+
                          ↓
 
 02
 REQUIREMENT ENGINEERING
 Convert operational requirements into software modules.
+
                          ↓
 
 03
 SYSTEM ARCHITECTURE
 Design frontend, backend, APIs, database and infrastructure.
+
                          ↓
 
 04
 UI / UX DESIGN
 Create a modern and efficient user experience.
+
                          ↓
 
 05
 ENGINEERING
 Develop scalable frontend and backend systems.
+
                          ↓
 
 06
 QUALITY ASSURANCE
 Test functionality, responsiveness, APIs and edge cases.
+
                          ↓
 
 07
 OPTIMIZATION
 Improve performance, security and reliability.
+
                          ↓
 
 08
 DEPLOYMENT
 Deploy using cloud infrastructure and production environments.
+
                          ↓
 
 09
@@ -334,7 +441,11 @@ Maintain, improve and scale the application.
 
 # 🎯 Engineering Standards
 
-## Frontend
+<table>
+<tr>
+<td width="50%">
+
+### Frontend
 
 * Component-based architecture
 * Type-safe development
@@ -347,18 +458,26 @@ Maintain, improve and scale the application.
 * Reusable UI components
 * Clean project structure
 
-## Backend
+</td>
+
+<td width="50%">
+
+### Backend
 
 * Modular APIs
 * DTO validation
 * Authentication
 * Authorization
-* Role-based access control
+* Role-based access
 * Rate limiting
 * Logging
 * Error handling
 * Database optimization
 * Secure environment configuration
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -368,16 +487,27 @@ Security is considered throughout our development process.
 
 ```text
 ✓ JWT Authentication
+
 ✓ HTTP-only Cookies
+
 ✓ Role-Based Access Control
+
 ✓ Request Validation
+
 ✓ Password Hashing
+
 ✓ API Rate Limiting
+
 ✓ Secure Headers
+
 ✓ Environment Variable Protection
+
 ✓ Database Access Control
+
 ✓ Input Sanitization
+
 ✓ CORS Configuration
+
 ✓ Production Logging
 ```
 
@@ -385,7 +515,7 @@ Security is considered throughout our development process.
 
 # ⚡ Performance Matters
 
-We focus heavily on application speed, stability and production reliability.
+We focus heavily on application speed and stability.
 
 ### Our performance approach
 
@@ -443,29 +573,71 @@ MECATRONIX
 
 # 🌟 What Makes Mecatronix Different?
 
-## 01 — Business First
+<table>
+<tr>
+<td align="center" width="33%">
+
+## 01
+
+### Business First
 
 We understand the operational problem before selecting the technology.
 
-## 02 — Custom Built
+</td>
+
+<td align="center" width="33%">
+
+## 02
+
+### Custom Built
 
 Our systems are designed around actual business workflows.
 
-## 03 — Built to Scale
+</td>
+
+<td align="center" width="33%">
+
+## 03
+
+### Built to Scale
 
 We build architecture that supports future modules and business growth.
 
-## 04 — Performance Focused
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+## 04
+
+### Performance Focused
 
 Application speed is treated as an engineering requirement.
 
-## 05 — Modern Technology
+</td>
+
+<td align="center">
+
+## 05
+
+### Modern Technology
 
 We use production-ready modern frameworks and development practices.
 
-## 06 — Long-Term Thinking
+</td>
+
+<td align="center">
+
+## 06
+
+### Long-Term Thinking
 
 We design software that can be maintained and extended over time.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -514,5 +686,3 @@ Mecatronix can help you transform it into a modern digital product.
 `© Mecatronix Software Development`
 
 </div>
-
- 
