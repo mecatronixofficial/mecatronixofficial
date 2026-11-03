@@ -389,7 +389,7 @@ export const backend = {
 
 <br/>
 
-<img src="./assets/meca-ai.svg" width="120" alt="Meca AI"/>
+<img src="meca-ai.svg" width="120" alt="Meca AI"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=1200&color=FFFFFF&center=true&vCenter=true&width=560&height=40&lines=Meca+AI%3A+Ready+when+you+are.;Meca+AI%3A+Tell+us+about+your+business+%E2%86%92+mecatronix.one" alt="Meca AI sign-off"/>
 
