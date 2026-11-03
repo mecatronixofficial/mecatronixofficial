@@ -16,7 +16,7 @@
 <tr>
 <td width="42%" align="center" valign="middle">
 
-<img src="./assets/meca-ai.svg" width="300" alt="Meca AI — the Mecatronix engineering copilot"/>
+<img src="meca-ai.svg" width="300" alt="Meca AI — the Mecatronix engineering copilot"/>
 
 </td>
 <td width="58%" valign="middle">
